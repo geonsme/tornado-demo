@@ -1,0 +1,24 @@
+{
+    "remotePath": "/home/geonscn/web/tornado_demo",
+    "host": "104.223.6.171",
+    "username": "geonscn",
+    "password": "c0f5e6e7b",
+    "port": 32200,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
