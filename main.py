@@ -8,12 +8,10 @@ DEBUG = False
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        print 'hello'
         self.write('hello world')
 
 class NewStoreHandler(tornado.web.RequestHandler):
     def get(self):
-        print 'new'
         self.write({'text': 'zdfasdfadsf'})
     
 def make_app():
